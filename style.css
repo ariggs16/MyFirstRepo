@@ -1,0 +1,27 @@
+p {
+	color:red;
+}
+
+.foo {
+	color:blue;
+}
+
+#puppy {
+	border: 10px solid green;
+}
+
+ul li {
+	color:purple;
+}
+
+li p {
+	color:yellow;
+}
+
+li ~ li {
+	font-weight:bold;
+}
+
+li + li {
+	
+}
